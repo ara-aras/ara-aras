@@ -21,7 +21,7 @@
 
 ---
 
-### 🏆 Hackathon Wins
+### Hackathon Wins
 
 | # | Hackathon | Result | Project |
 |---|---|---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="left">
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🚀 Projects Worth a Look
+### Projects Worth a Look
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ OpenAI-compatible proxy enforcing action-level policy (tool allowlist, egress co
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
