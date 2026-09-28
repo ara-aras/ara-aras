@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,20&height=200&section=header&text=Rafan%20Ahamad%20Sheik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20with%20code,%20one%20hackathon%20at%20a%20time&descAlignY=55&descSize=18" />
 
-<a href="https://github.com/Dinaltium">
+<a href="https://github.com/ara-aras">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2F+ML+Tinkerer;Embedded+Systems+%26+IoT+Enthusiast;Hackathon+Regular" alt="Typing SVG" />
 </a>
 
@@ -27,8 +27,8 @@
 |---|---|---|---|
 | 1 | OpenLoop | 🥈 2nd Place | [openloopol08](https://github.com/PrakD3/openloopol08) |
 | 2 | PAETRIX | 🥈 2nd Place | *(no repo)* |
-| 3 | VoidHack 2026 (April) | 🥇 Winner | [AFE](https://github.com/Dinaltium/AFE) — Autonomous Finance Engine |
-| 4 | MedhaDrishti National AI Hackathon | 🥉 3rd Place | [MRI Enhancement & Segmentation](https://github.com/Dinaltium/mri-enhancement-segmentation) |
+| 3 | VoidHack 2026 (April) | 🥇 Winner | [AFE](https://github.com/ara-aras/AFE) — Autonomous Finance Engine |
+| 4 | MedhaDrishti National AI Hackathon | 🥉 3rd Place | [MRI Enhancement & Segmentation](https://github.com/ara-aras/mri-enhancement-segmentation) |
 
 <div align="left">
 <img src="https://img.shields.io/badge/Hackathons%20Won-4-F72585?style=for-the-badge&logo=trophy&logoColor=white" />
@@ -67,7 +67,7 @@ IoT & Embedded Systems club site for PACE — community hub for student tech pro
   </td>
   <td width="50%">
 
-**[AFE](https://github.com/Dinaltium/AFE)** — Autonomous Finance Engine
+**[AFE](https://github.com/ara-aras/AFE)** — Autonomous Finance Engine
 Agentic AI that auto-splits gig worker income, vets deals, and logs every financial decision transparently.
 🔗 [Live](https://afe-blond.vercel.app) · `TypeScript` `Next.js` `FastAPI`
 
@@ -76,14 +76,14 @@ Agentic AI that auto-splits gig worker income, vets deals, and logs every financ
 <tr>
   <td width="50%">
 
-**[WKAI](https://github.com/Dinaltium/wkai)** — Workshop AI
+**[WKAI](https://github.com/ara-aras/wkai)** — Workshop AI
 Real-time desktop app that monitors an instructor's screen, generates live step-by-step guides for students, and diagnoses errors. Tauri + React + LangGraph.
 🔗 [Live](https://wkai.vercel.app) · `TypeScript` `Rust`
 
   </td>
   <td width="50%">
 
-**[BusLink](https://github.com/Dinaltium/Buslink)**
+**[BusLink](https://github.com/ara-aras/Buslink)**
 Next.js smart-bus platform for Mangalore–Udupi: route search, fares, QR flows, role-based dashboards.
 🔗 [Live](https://dkb-chi.vercel.app/) · `TypeScript` `Next.js`
 
@@ -92,7 +92,7 @@ Next.js smart-bus platform for Mangalore–Udupi: route search, fares, QR flows,
 <tr>
   <td width="50%">
 
-**[Whatsapp-bot](https://github.com/Dinaltium/Whatsapp-bot)**
+**[Whatsapp-bot](https://github.com/ara-aras/Whatsapp-bot)**
 TypeScript WhatsApp bot coordinator for DK24/ECB networks — Groq LLM chat, Neon Postgres sessions, RBAC firewall, multi-bot profiles.
 `TypeScript`
 
@@ -124,7 +124,7 @@ OpenAI-compatible proxy enforcing action-level policy (tool allowlist, egress co
 <tr>
   <td width="50%">
 
-**[MRI Enhancement & Segmentation](https://github.com/Dinaltium/mri-enhancement-segmentation)**
+**[MRI Enhancement & Segmentation](https://github.com/ara-aras/mri-enhancement-segmentation)**
 2D U-Net restoration and tumour segmentation for brain and lumbo-sacral spine MRI — 3rd place, MedhaDrishti National AI Hackathon.
 `Python` `PyTorch`
 
@@ -139,7 +139,7 @@ OpenAI-compatible proxy enforcing action-level policy (tool allowlist, egress co
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinaltium&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ara-aras&theme=radical&hide_border=true" />
 
 </div>
 
@@ -149,7 +149,7 @@ OpenAI-compatible proxy enforcing action-level policy (tool allowlist, egress co
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dinaltium&color=f72585&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ara-aras&color=f72585&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,20&height=100&section=footer" />
 
